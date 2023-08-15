@@ -1,0 +1,5 @@
+mkdir jals
+mkdir fatima
+cd jals
+touch jals.ra
+echo "hi fatima how are you" > jals.rr
